@@ -6,4 +6,7 @@ public class DemoGit {
 		System.out.println("send to me");
 	}
 
+	public void m1(){
+		System.out.println("hi kunal");
+	}
 }
